@@ -1,0 +1,14 @@
+
+body{
+    margin: auto 0;
+}
+
+.jumbotron{
+    background: url(img/leaf.avif) repeat repeat center;
+    
+}
+
+
+form{
+    margin: 50px;
+}
